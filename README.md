@@ -1,4 +1,4 @@
-# Olá, eu sou o Renan Stark 👋
+# Olá, eu sou o Renan Ferraz 👋
 
 Sou desenvolvedor focado em **Engenharia Backend, Arquitetura de Sistemas e Automação de Processos**. Atuo na construção de APIs robustas, ecossistemas de microsserviços e integração de ferramentas low-code/no-code para otimização de fluxos de dados e sistemas de alta disponibilidade.
 
@@ -35,7 +35,7 @@ Estou em um desafio pessoal de **100 dias consecutivos de commits focados em eng
 
 ### 📌 Projetos em Destaque
 
-*   **[Nome do Projeto Principal]** - API robusta desenvolvida em Node.js/Express integrada ao PostgreSQL para gerenciamento de [descreva a principal função, ex: logística/vendas], utilizando arquitetura escalável e ambiente nativo Windows.
+*   API robusta desenvolvida em Node.js/Express integrada ao PostgreSQL para gerenciamento de [descreva a principal função, ex: logística/vendas], utilizando arquitetura escalável e ambiente nativo Windows.
 *   **[Projeto de Automação / J.A.R.V.I.S.]** - Sistema de orquestração de fluxos e dados utilizando n8n, Railway e APIs REST para automação de processos em tempo real.
 
 ---
