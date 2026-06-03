@@ -8,7 +8,7 @@ Orientado a resultados, aplico conceitos de boas práticas de design de software
 
 ### 🚀 Desafio Atual: 100 Dias de Código (GitHub Streak)
 Estou em um desafio pessoal de **100 dias consecutivos de commits focados em engenharia de software**, documentando minha evolução diária diretamente no repositório.
-*   **Foco atual:** Arquitetura de microsserviços, performance em bancos de dados e mensageria.
+*   **Foco atual:** Arquitetura de microsserviços, performance em bancos de dados, mensageria e desenvolvimento mobile nativo com Kotlin.
 
 ---
 
@@ -16,9 +16,14 @@ Estou em um desafio pessoal de **100 dias consecutivos de commits focados em eng
 
 #### 💻 Backend & Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 📱 Mobile & Android
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 #### 🗄️ Bancos de Dados & ORMs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,8 +40,9 @@ Estou em um desafio pessoal de **100 dias consecutivos de commits focados em eng
 
 ### 📌 Projetos em Destaque
 
-*   API robusta desenvolvida em Node.js/Express integrada ao PostgreSQL para gerenciamento de [descreva a principal função, ex: logística/vendas], utilizando arquitetura escalável e ambiente nativo Windows.
+*   **API de Gerenciamento:** Desenvolvida em Node.js/Express integrada ao PostgreSQL para logística/vendas, utilizando arquitetura escalável e ambiente nativo Windows.
 *   **[Projeto de Automação / J.A.R.V.I.S.]** - Sistema de orquestração de fluxos e dados utilizando n8n, Railway e APIs REST para automação de processos em tempo real.
+*   **[Estudos Mobile]** - Desenvolvimento de aplicações nativas Android utilizando Kotlin e Jetpack Compose, integrando conceitos de backend para soluções Full Stack.
 
 ---
 
